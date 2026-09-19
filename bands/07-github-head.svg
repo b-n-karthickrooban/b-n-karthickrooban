@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 130" width="1200" height="130" preserveAspectRatio="xMidYMid meet" role="img" aria-label="engineering environment">
+<defs>
+<linearGradient id="gh-bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#16294A"/><stop offset="50%" stop-color="#101E36"/><stop offset="100%" stop-color="#0A1220"/>
+</linearGradient>
+<radialGradient id="gh-halo" cx="50%" cy="45%" r="68%">
+  <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.40"/>
+  <stop offset="45%" stop-color="#3B82F6" stop-opacity="0.16"/>
+  <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="gh-cy" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#3B82F6"/><stop offset="55%" stop-color="#22D3EE"/><stop offset="100%" stop-color="#7DD3FC"/>
+</linearGradient>
+<linearGradient id="gh-steel" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#1B2636"/><stop offset="45%" stop-color="#46586F"/>
+  <stop offset="60%" stop-color="#8A9AAE"/><stop offset="100%" stop-color="#22303F"/>
+</linearGradient>
+<linearGradient id="gh-glass" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.10"/>
+  <stop offset="100%" stop-color="#3B82F6" stop-opacity="0.02"/>
+</linearGradient>
+<linearGradient id="gh-scan" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+  <stop offset="45%" stop-color="#22D3EE" stop-opacity="0.30"/>
+  <stop offset="55%" stop-color="#E0FBFF" stop-opacity="0.38"/>
+  <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+</linearGradient>
+<filter id="gh-glow" x="-70%" y="-70%" width="240%" height="240%">
+  <feGaussianBlur stdDeviation="3.2" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="gh-glowS" x="-90%" y="-90%" width="280%" height="280%">
+  <feGaussianBlur stdDeviation="1.6" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="gh-soft" x="-40%" y="-40%" width="180%" height="180%">
+  <feGaussianBlur stdDeviation="9"/>
+</filter>
+</defs>
+<rect width="1200" height="130" fill="#0C1B30"/>
+<g opacity="0.28">
+<line x1="0" y1="-24.0" x2="1200" y2="-24.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="22.0" x2="1200" y2="22.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="68.0" x2="1200" y2="68.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="114.0" x2="1200" y2="114.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="0" x2="0" y2="130" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="60" y1="0" x2="60" y2="130" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="120" y1="0" x2="120" y2="130" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="180" y1="0" x2="180" y2="130" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="240" y1="0" x2="240" y2="130" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="300" y1="0" x2="300" y2="130" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="360" y1="0" x2="360" y2="130" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="420" y1="0" x2="420" y2="130" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="480" y1="0" x2="480" y2="130" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="540" y1="0" x2="540" y2="130" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="600" y1="0" x2="600" y2="130" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="660" y1="0" x2="660" y2="130" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="720" y1="0" x2="720" y2="130" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="780" y1="0" x2="780" y2="130" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="840" y1="0" x2="840" y2="130" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="900" y1="0" x2="900" y2="130" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="960" y1="0" x2="960" y2="130" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="1020" y1="0" x2="1020" y2="130" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="1080" y1="0" x2="1080" y2="130" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="1140" y1="0" x2="1140" y2="130" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+</g>
+<g opacity="0.45">
+<path id="gh-l0" d="M834.3 88.7 L889.1 43.2" stroke="#22D3EE" stroke-opacity="0.16" stroke-width="0.9" fill="none"/>
+<path id="gh-l1" d="M834.3 88.7 L786.1 33.0" stroke="#22D3EE" stroke-opacity="0.14" stroke-width="0.9" fill="none"/>
+<path id="gh-l2" d="M834.3 88.7 L939.7 82.3" stroke="#22D3EE" stroke-opacity="0.19" stroke-width="0.9" fill="none"/>
+<path id="gh-l3" d="M1145.3 32.2 L1150.0 102.5" stroke="#22D3EE" stroke-opacity="0.21" stroke-width="0.9" fill="none"/>
+<path id="gh-l4" d="M1145.3 32.2 L1030.3 34.7" stroke="#22D3EE" stroke-opacity="0.12" stroke-width="0.9" fill="none"/>
+<path id="gh-l5" d="M702.0 43.1 L786.1 33.0" stroke="#22D3EE" stroke-opacity="0.15" stroke-width="0.9" fill="none"/>
+<path id="gh-l6" d="M702.0 43.1 L834.3 88.7" stroke="#22D3EE" stroke-opacity="0.24" stroke-width="0.9" fill="none"/>
+<path id="gh-l7" d="M939.7 82.3 L889.1 43.2" stroke="#22D3EE" stroke-opacity="0.23" stroke-width="0.9" fill="none"/>
+<path id="gh-l8" d="M939.7 82.3 L1030.3 34.7" stroke="#22D3EE" stroke-opacity="0.14" stroke-width="0.9" fill="none"/>
+<path id="gh-l9" d="M1030.3 34.7 L1150.0 102.5" stroke="#22D3EE" stroke-opacity="0.17" stroke-width="0.9" fill="none"/>
+<path id="gh-l10" d="M889.1 43.2 L786.1 33.0" stroke="#22D3EE" stroke-opacity="0.13" stroke-width="0.9" fill="none"/>
+<circle r="1.9" fill="#CFFAFE" filter="url(#gh-glowS)">
+          <animateMotion dur="7.1s" begin="2.3s" repeatCount="indefinite" rotate="auto">
+            <mpath xlink:href="#gh-l2"/></animateMotion>
+          <animate attributeName="opacity" values="0;1;1;0" dur="7.1s" begin="2.3s" repeatCount="indefinite"/>
+        </circle>
+<circle r="1.9" fill="#CFFAFE" filter="url(#gh-glowS)">
+          <animateMotion dur="7.7s" begin="2.4s" repeatCount="indefinite" rotate="auto">
+            <mpath xlink:href="#gh-l4"/></animateMotion>
+          <animate attributeName="opacity" values="0;1;1;0" dur="7.7s" begin="2.4s" repeatCount="indefinite"/>
+        </circle>
+<circle r="1.9" fill="#CFFAFE" filter="url(#gh-glowS)">
+          <animateMotion dur="7.2s" begin="1.0s" repeatCount="indefinite" rotate="auto">
+            <mpath xlink:href="#gh-l7"/></animateMotion>
+          <animate attributeName="opacity" values="0;1;1;0" dur="7.2s" begin="1.0s" repeatCount="indefinite"/>
+        </circle>
+<g transform="translate(834.3 88.7)">
+          <circle r="5.5" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="4.6;9.2;4.6" dur="4.2s" begin="0.4s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="4.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+          <circle r="2.1" fill="#22D3EE" filter="url(#gh-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="4.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(1145.3 32.2)">
+          <circle r="8.8" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="7.5;15.0;7.5" dur="6.1s" begin="1.8s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="6.1s" begin="1.8s" repeatCount="indefinite"/></circle>
+          <circle r="3.4" fill="#E0FBFF" filter="url(#gh-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="6.1s" begin="1.8s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(702.0 43.1)">
+          <circle r="5.5" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="4.6;9.2;4.6" dur="3.0s" begin="3.1s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="3.0s" begin="3.1s" repeatCount="indefinite"/></circle>
+          <circle r="2.1" fill="#22D3EE" filter="url(#gh-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="3.0s" begin="3.1s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(939.7 82.3)">
+          <circle r="6.8" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="5.7;11.4;5.7" dur="5.6s" begin="4.5s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="5.6s" begin="4.5s" repeatCount="indefinite"/></circle>
+          <circle r="2.6" fill="#22D3EE" filter="url(#gh-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="5.6s" begin="4.5s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(1030.3 34.7)">
+          <circle r="5.5" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="4.6;9.2;4.6" dur="5.8s" begin="0.6s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="5.8s" begin="0.6s" repeatCount="indefinite"/></circle>
+          <circle r="2.1" fill="#22D3EE" filter="url(#gh-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="5.8s" begin="0.6s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(1150.0 102.5)">
+          <circle r="8.8" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="7.5;15.0;7.5" dur="4.9s" begin="0.7s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="4.9s" begin="0.7s" repeatCount="indefinite"/></circle>
+          <circle r="3.4" fill="#E0FBFF" filter="url(#gh-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="4.9s" begin="0.7s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(786.1 33.0)">
+          <circle r="10.9" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="9.2;18.5;9.2" dur="5.8s" begin="2.6s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="5.8s" begin="2.6s" repeatCount="indefinite"/></circle>
+          <circle r="4.2" fill="#E0FBFF" filter="url(#gh-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="5.8s" begin="2.6s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(889.1 43.2)">
+          <circle r="4.2" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="3.5;7.0;3.5" dur="4.7s" begin="0.1s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="4.7s" begin="0.1s" repeatCount="indefinite"/></circle>
+          <circle r="1.6" fill="#22D3EE" filter="url(#gh-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="4.7s" begin="0.1s" repeatCount="indefinite"/></circle>
+        </g>
+</g>
+<rect width="1200" height="130" fill="#000" opacity="0.16"/>
+<rect x="40" y="34" width="70" height="70" rx="10" fill="url(#gh-glass)" stroke="#22D3EE" stroke-opacity="0.5"/>
+    <text x="75" y="80" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="24" fill="#22D3EE" filter="url(#gh-glowS)">06</text>
+    <text x="126" y="64" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="24" font-weight="600" fill="#FFFFFF" letter-spacing="3">GITHUB ACTIVITY</text>
+    <text x="128" y="86" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10" fill="#707A8A" letter-spacing="2.4">live stats &amp; contributions</text>
+<g opacity="0.4">
+  <path fill="none" stroke="#22D3EE" stroke-width="1.4" stroke-opacity="0.8" d="M760.0 107.0 L766.1 104.8 L772.2 102.7 L778.3 101.0 L784.4 99.7 L790.5 98.9 L796.6 98.6 L802.7 98.8 L808.8 99.3 L814.9 100.2 L821.0 101.1 L827.1 102.0 L833.2 102.7 L839.3 103.2 L845.4 103.4 L851.5 103.4 L857.6 103.1 L863.7 102.6 L869.8 102.2 L875.9 101.8 L882.0 101.7 L888.1 101.9 L894.2 102.5 L900.3 103.5 L906.4 104.9 L912.5 106.5 L918.6 108.3 L924.7 110.0 L930.8 111.5 L936.9 112.8 L943.1 113.5 L949.2 113.7 L955.3 113.4 L961.4 112.5 L967.5 111.2 L973.6 109.6 L979.7 107.9 L985.8 106.2 L991.9 104.6 L998.0 103.3 L1004.1 102.4 L1010.2 101.9 L1016.3 101.7 L1022.4 101.9 L1028.5 102.3 L1034.6 102.7 L1040.7 103.2 L1046.8 103.4 L1052.9 103.4 L1059.0 103.1 L1065.1 102.6 L1071.2 101.8 L1077.3 100.9 L1083.4 100.0 L1089.5 99.2 L1095.6 98.7 L1101.7 98.6 L1107.8 99.0 L1113.9 99.9 L1120.0 101.3">
+    <animate attributeName="d" values="M760.0 107.0 L766.1 104.8 L772.2 102.7 L778.3 101.0 L784.4 99.7 L790.5 98.9 L796.6 98.6 L802.7 98.8 L808.8 99.3 L814.9 100.2 L821.0 101.1 L827.1 102.0 L833.2 102.7 L839.3 103.2 L845.4 103.4 L851.5 103.4 L857.6 103.1 L863.7 102.6 L869.8 102.2 L875.9 101.8 L882.0 101.7 L888.1 101.9 L894.2 102.5 L900.3 103.5 L906.4 104.9 L912.5 106.5 L918.6 108.3 L924.7 110.0 L930.8 111.5 L936.9 112.8 L943.1 113.5 L949.2 113.7 L955.3 113.4 L961.4 112.5 L967.5 111.2 L973.6 109.6 L979.7 107.9 L985.8 106.2 L991.9 104.6 L998.0 103.3 L1004.1 102.4 L1010.2 101.9 L1016.3 101.7 L1022.4 101.9 L1028.5 102.3 L1034.6 102.7 L1040.7 103.2 L1046.8 103.4 L1052.9 103.4 L1059.0 103.1 L1065.1 102.6 L1071.2 101.8 L1077.3 100.9 L1083.4 100.0 L1089.5 99.2 L1095.6 98.7 L1101.7 98.6 L1107.8 99.0 L1113.9 99.9 L1120.0 101.3;M760.0 101.3 L766.1 102.7 L772.2 103.9 L778.3 104.8 L784.4 105.4 L790.5 105.7 L796.6 105.7 L802.7 105.4 L808.8 105.1 L814.9 104.8 L821.0 104.7 L827.1 104.8 L833.2 105.3 L839.3 106.1 L845.4 107.1 L851.5 108.4 L857.6 109.7 L863.7 111.0 L869.8 112.1 L875.9 112.8 L882.0 113.1 L888.1 112.8 L894.2 112.1 L900.3 110.8 L906.4 109.1 L912.5 107.2 L918.6 105.2 L924.7 103.3 L930.8 101.7 L936.9 100.4 L943.1 99.5 L949.2 99.1 L955.3 99.2 L961.4 99.7 L967.5 100.4 L973.6 101.2 L979.7 102.1 L985.8 102.8 L991.9 103.4 L998.0 103.6 L1004.1 103.6 L1010.2 103.3 L1016.3 102.9 L1022.4 102.5 L1028.5 102.1 L1034.6 102.0 L1040.7 102.3 L1046.8 103.0 L1052.9 104.1 L1059.0 105.6 L1065.1 107.5 L1071.2 109.5 L1077.3 111.6 L1083.4 113.6 L1089.5 115.3 L1095.6 116.6 L1101.7 117.4 L1107.8 117.6 L1113.9 117.3 L1120.0 116.5;M760.0 107.1 L766.1 106.9 L772.2 106.9 L778.3 107.3 L784.4 107.9 L790.5 108.7 L796.6 109.6 L802.7 110.4 L808.8 111.1 L814.9 111.4 L821.0 111.2 L827.1 110.6 L833.2 109.6 L839.3 108.1 L845.4 106.3 L851.5 104.4 L857.6 102.4 L863.7 100.6 L869.8 99.1 L875.9 98.1 L882.0 97.6 L888.1 97.6 L894.2 98.1 L900.3 99.1 L906.4 100.3 L912.5 101.7 L918.6 103.1 L924.7 104.3 L930.8 105.3 L936.9 106.0 L943.1 106.4 L949.2 106.5 L955.3 106.5 L961.4 106.3 L967.5 106.2 L973.6 106.2 L979.7 106.5 L985.8 107.2 L991.9 108.2 L998.0 109.5 L1004.1 111.1 L1010.2 112.8 L1016.3 114.5 L1022.4 116.1 L1028.5 117.3 L1034.6 118.0 L1040.7 118.2 L1046.8 117.9 L1052.9 117.0 L1059.0 115.7 L1065.1 114.0 L1071.2 112.2 L1077.3 110.3 L1083.4 108.6 L1089.5 107.1 L1095.6 106.1 L1101.7 105.4 L1107.8 105.2 L1113.9 105.3 L1120.0 105.6;M760.0 107.0 L766.1 104.8 L772.2 102.7 L778.3 101.0 L784.4 99.7 L790.5 98.9 L796.6 98.6 L802.7 98.8 L808.8 99.3 L814.9 100.2 L821.0 101.1 L827.1 102.0 L833.2 102.7 L839.3 103.2 L845.4 103.4 L851.5 103.4 L857.6 103.1 L863.7 102.6 L869.8 102.2 L875.9 101.8 L882.0 101.7 L888.1 101.9 L894.2 102.5 L900.3 103.5 L906.4 104.9 L912.5 106.5 L918.6 108.3 L924.7 110.0 L930.8 111.5 L936.9 112.8 L943.1 113.5 L949.2 113.7 L955.3 113.4 L961.4 112.5 L967.5 111.2 L973.6 109.6 L979.7 107.9 L985.8 106.2 L991.9 104.6 L998.0 103.3 L1004.1 102.4 L1010.2 101.9 L1016.3 101.7 L1022.4 101.9 L1028.5 102.3 L1034.6 102.7 L1040.7 103.2 L1046.8 103.4 L1052.9 103.4 L1059.0 103.1 L1065.1 102.6 L1071.2 101.8 L1077.3 100.9 L1083.4 100.0 L1089.5 99.2 L1095.6 98.7 L1101.7 98.6 L1107.8 99.0 L1113.9 99.9 L1120.0 101.3" dur="8s" repeatCount="indefinite"/></path>
+  <line x1="760" y1="107.0" x2="1120" y2="107.0" stroke="#3B82F6" stroke-opacity="0.25" stroke-dasharray="3 6"/>
+</g>
+</svg>

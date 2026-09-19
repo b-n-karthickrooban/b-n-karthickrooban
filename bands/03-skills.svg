@@ -1,0 +1,204 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 544" width="1200" height="544" preserveAspectRatio="xMidYMid meet" role="img" aria-label="engineering environment">
+<defs>
+<linearGradient id="skills-bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#16294A"/><stop offset="50%" stop-color="#101E36"/><stop offset="100%" stop-color="#0A1220"/>
+</linearGradient>
+<radialGradient id="skills-halo" cx="50%" cy="45%" r="68%">
+  <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.40"/>
+  <stop offset="45%" stop-color="#3B82F6" stop-opacity="0.16"/>
+  <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="skills-cy" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#3B82F6"/><stop offset="55%" stop-color="#22D3EE"/><stop offset="100%" stop-color="#7DD3FC"/>
+</linearGradient>
+<linearGradient id="skills-steel" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#1B2636"/><stop offset="45%" stop-color="#46586F"/>
+  <stop offset="60%" stop-color="#8A9AAE"/><stop offset="100%" stop-color="#22303F"/>
+</linearGradient>
+<linearGradient id="skills-glass" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.10"/>
+  <stop offset="100%" stop-color="#3B82F6" stop-opacity="0.02"/>
+</linearGradient>
+<linearGradient id="skills-scan" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+  <stop offset="45%" stop-color="#22D3EE" stop-opacity="0.30"/>
+  <stop offset="55%" stop-color="#E0FBFF" stop-opacity="0.38"/>
+  <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+</linearGradient>
+<filter id="skills-glow" x="-70%" y="-70%" width="240%" height="240%">
+  <feGaussianBlur stdDeviation="3.2" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="skills-glowS" x="-90%" y="-90%" width="280%" height="280%">
+  <feGaussianBlur stdDeviation="1.6" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="skills-soft" x="-40%" y="-40%" width="180%" height="180%">
+  <feGaussianBlur stdDeviation="9"/>
+</filter>
+</defs>
+<rect width="1200" height="544" fill="#0C1B30"/>
+<g opacity="0.28">
+<line x1="0" y1="-2.0" x2="1200" y2="-2.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="44.0" x2="1200" y2="44.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="90.0" x2="1200" y2="90.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="136.0" x2="1200" y2="136.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="182.0" x2="1200" y2="182.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="228.0" x2="1200" y2="228.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="274.0" x2="1200" y2="274.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="320.0" x2="1200" y2="320.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="366.0" x2="1200" y2="366.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="412.0" x2="1200" y2="412.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="458.0" x2="1200" y2="458.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="504.0" x2="1200" y2="504.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="0" x2="0" y2="544" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="60" y1="0" x2="60" y2="544" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="120" y1="0" x2="120" y2="544" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="180" y1="0" x2="180" y2="544" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="240" y1="0" x2="240" y2="544" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="300" y1="0" x2="300" y2="544" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="360" y1="0" x2="360" y2="544" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="420" y1="0" x2="420" y2="544" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="480" y1="0" x2="480" y2="544" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="540" y1="0" x2="540" y2="544" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="600" y1="0" x2="600" y2="544" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="660" y1="0" x2="660" y2="544" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="720" y1="0" x2="720" y2="544" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="780" y1="0" x2="780" y2="544" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="840" y1="0" x2="840" y2="544" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="900" y1="0" x2="900" y2="544" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="960" y1="0" x2="960" y2="544" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="1020" y1="0" x2="1020" y2="544" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="1080" y1="0" x2="1080" y2="544" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="1140" y1="0" x2="1140" y2="544" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+</g>
+<g opacity="0.45">
+<path id="skills-l0" d="M634.8 26.3 L480.4 30.0" stroke="#22D3EE" stroke-opacity="0.16" stroke-width="0.9" fill="none"/>
+<g transform="translate(955.2 29.2)">
+          <circle r="5.5" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="4.6;9.2;4.6" dur="5.3s" begin="0.7s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="5.3s" begin="0.7s" repeatCount="indefinite"/></circle>
+          <circle r="2.1" fill="#22D3EE" filter="url(#skills-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="5.3s" begin="0.7s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(634.8 26.3)">
+          <circle r="6.8" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="5.7;11.4;5.7" dur="3.4s" begin="1.3s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="3.4s" begin="1.3s" repeatCount="indefinite"/></circle>
+          <circle r="2.6" fill="#22D3EE" filter="url(#skills-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="3.4s" begin="1.3s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(215.0 27.1)">
+          <circle r="8.8" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="7.5;15.0;7.5" dur="3.6s" begin="0.8s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="3.6s" begin="0.8s" repeatCount="indefinite"/></circle>
+          <circle r="3.4" fill="#E0FBFF" filter="url(#skills-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="3.6s" begin="0.8s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(1172.2 516.1)">
+          <circle r="4.2" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="3.5;7.0;3.5" dur="5.7s" begin="0.4s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="5.7s" begin="0.4s" repeatCount="indefinite"/></circle>
+          <circle r="1.6" fill="#22D3EE" filter="url(#skills-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="5.7s" begin="0.4s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(27.3 453.7)">
+          <circle r="8.8" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="7.5;15.0;7.5" dur="6.3s" begin="3.1s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="6.3s" begin="3.1s" repeatCount="indefinite"/></circle>
+          <circle r="3.4" fill="#E0FBFF" filter="url(#skills-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="6.3s" begin="3.1s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(1172.7 266.9)">
+          <circle r="5.5" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="4.6;9.2;4.6" dur="4.6s" begin="2.8s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="4.6s" begin="2.8s" repeatCount="indefinite"/></circle>
+          <circle r="2.1" fill="#22D3EE" filter="url(#skills-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="4.6s" begin="2.8s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(480.4 30.0)">
+          <circle r="4.2" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="3.5;7.0;3.5" dur="5.0s" begin="3.4s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="5.0s" begin="3.4s" repeatCount="indefinite"/></circle>
+          <circle r="1.6" fill="#22D3EE" filter="url(#skills-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="5.0s" begin="3.4s" repeatCount="indefinite"/></circle>
+        </g>
+</g>
+<rect width="1200" height="544" fill="#000" opacity="0.16"/>
+<g transform="translate(1130 60)" opacity="0.32">
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="0 0 0;360 0 0" dur="34s" repeatCount="indefinite"/>
+    <path d="M24.00 0.00 L23.17 6.26 L28.41 9.63 L25.33 16.07 L19.42 14.11 L15.06 18.68 L17.33 24.49 L11.04 27.89 L7.42 22.83 L1.21 23.97 L-0.38 30.00 L-7.46 29.06 L-7.42 22.83 L-13.11 20.10 L-17.94 24.05 L-23.12 19.12 L-19.42 14.11 L-22.42 8.55 L-28.65 8.91 L-29.94 1.88 L-24.00 0.00 L-23.17 -6.26 L-28.41 -9.63 L-25.33 -16.07 L-19.42 -14.11 L-15.06 -18.68 L-17.33 -24.49 L-11.04 -27.89 L-7.42 -22.83 L-1.21 -23.97 L0.38 -30.00 L7.46 -29.06 L7.42 -22.83 L13.11 -20.10 L17.94 -24.05 L23.12 -19.12 L19.42 -14.11 L22.42 -8.55 L28.65 -8.91 L29.94 -1.88 Z" fill="#3B82F6" fill-opacity="0.05" stroke="#22D3EE" stroke-width="1.1" stroke-linejoin="round" filter="url(#skills-glowS)"/>
+    <circle r="12.6" fill="none" stroke="#22D3EE" stroke-width="0.9" stroke-opacity="0.75"/>
+    <circle r="4.8" fill="none" stroke="#A6AFC0" stroke-width="1" stroke-opacity="0.45"/>
+    <g stroke="#22D3EE" stroke-opacity="0.35" stroke-width="1">
+      <line x1="4.8" y1="0" x2="12.6" y2="0"/>
+      <line x1="-4.8" y1="0" x2="-12.6" y2="0"/>
+      <line x1="0" y1="4.8" x2="0" y2="12.6"/>
+      <line x1="0" y1="-4.8" x2="0" y2="-12.6"/>
+    </g>
+  </g>
+</g>
+<rect x="40" y="34" width="70" height="70" rx="10" fill="url(#skills-glass)" stroke="#22D3EE" stroke-opacity="0.5"/>
+    <text x="75" y="80" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="26" fill="#22D3EE" filter="url(#skills-glowS)">02</text>
+    <text x="126" y="64" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="24" font-weight="600" fill="#FFFFFF" letter-spacing="3">SKILLS</text>
+    <text x="128" y="86" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10" fill="#707A8A" letter-spacing="2.4">technical capabilities</text>
+    <line x1="40" y1="120" x2="1160" y2="120" stroke="#22D3EE" stroke-opacity="0.18"/>
+<text x="40" y="156" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#22D3EE" letter-spacing="3">ENGINEERING</text>
+<rect x="40" y="169" width="265" height="26" rx="5" fill="url(#skills-glass)" stroke="#22D3EE" stroke-opacity="0.22"/>
+            <circle cx="53" cy="182" r="2.4" fill="#22D3EE"/>
+            <text x="66" y="186" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#A6AFC0">AutoCAD</text>
+<rect x="325" y="169" width="265" height="26" rx="5" fill="url(#skills-glass)" stroke="#22D3EE" stroke-opacity="0.22"/>
+            <circle cx="338" cy="182" r="2.4" fill="#22D3EE"/>
+            <text x="351" y="186" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#A6AFC0">SolidWorks</text>
+<rect x="610" y="169" width="265" height="26" rx="5" fill="url(#skills-glass)" stroke="#22D3EE" stroke-opacity="0.22"/>
+            <circle cx="623" cy="182" r="2.4" fill="#22D3EE"/>
+            <text x="636" y="186" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#A6AFC0">CNC / VMC</text>
+<rect x="895" y="169" width="265" height="26" rx="5" fill="url(#skills-glass)" stroke="#22D3EE" stroke-opacity="0.22"/>
+            <circle cx="908" cy="182" r="2.4" fill="#22D3EE"/>
+            <text x="921" y="186" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#A6AFC0">3D Design</text>
+<rect x="40" y="203" width="265" height="26" rx="5" fill="url(#skills-glass)" stroke="#22D3EE" stroke-opacity="0.22"/>
+            <circle cx="53" cy="216" r="2.4" fill="#22D3EE"/>
+            <text x="66" y="220" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#A6AFC0">Manufacturing</text>
+<rect x="325" y="203" width="265" height="26" rx="5" fill="url(#skills-glass)" stroke="#22D3EE" stroke-opacity="0.22"/>
+            <circle cx="338" cy="216" r="2.4" fill="#22D3EE"/>
+            <text x="351" y="220" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#A6AFC0">Quality Control</text>
+<text x="40" y="282" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#22D3EE" letter-spacing="3">PROGRAMMING</text>
+<rect x="40" y="295" width="265" height="26" rx="5" fill="url(#skills-glass)" stroke="#22D3EE" stroke-opacity="0.22"/>
+            <circle cx="53" cy="308" r="2.4" fill="#22D3EE"/>
+            <text x="66" y="312" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#A6AFC0">Python</text>
+<rect x="325" y="295" width="265" height="26" rx="5" fill="url(#skills-glass)" stroke="#22D3EE" stroke-opacity="0.22"/>
+            <circle cx="338" cy="308" r="2.4" fill="#22D3EE"/>
+            <text x="351" y="312" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#A6AFC0">C++</text>
+<rect x="610" y="295" width="265" height="26" rx="5" fill="url(#skills-glass)" stroke="#22D3EE" stroke-opacity="0.22"/>
+            <circle cx="623" cy="308" r="2.4" fill="#22D3EE"/>
+            <text x="636" y="312" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#A6AFC0">HTML5 / CSS3</text>
+<rect x="895" y="295" width="265" height="26" rx="5" fill="url(#skills-glass)" stroke="#22D3EE" stroke-opacity="0.22"/>
+            <circle cx="908" cy="308" r="2.4" fill="#22D3EE"/>
+            <text x="921" y="312" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#A6AFC0">PHP</text>
+<rect x="40" y="329" width="265" height="26" rx="5" fill="url(#skills-glass)" stroke="#22D3EE" stroke-opacity="0.22"/>
+            <circle cx="53" cy="342" r="2.4" fill="#22D3EE"/>
+            <text x="66" y="346" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#A6AFC0">scikit-learn</text>
+<rect x="325" y="329" width="265" height="26" rx="5" fill="url(#skills-glass)" stroke="#22D3EE" stroke-opacity="0.22"/>
+            <circle cx="338" cy="342" r="2.4" fill="#22D3EE"/>
+            <text x="351" y="346" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#A6AFC0">Streamlit</text>
+<rect x="610" y="329" width="265" height="26" rx="5" fill="url(#skills-glass)" stroke="#22D3EE" stroke-opacity="0.22"/>
+            <circle cx="623" cy="342" r="2.4" fill="#22D3EE"/>
+            <text x="636" y="346" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#A6AFC0">Pandas</text>
+<text x="40" y="408" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="12" fill="#22D3EE" letter-spacing="3">CREATIVE TECHNOLOGY</text>
+<rect x="40" y="421" width="265" height="26" rx="5" fill="url(#skills-glass)" stroke="#22D3EE" stroke-opacity="0.22"/>
+            <circle cx="53" cy="434" r="2.4" fill="#22D3EE"/>
+            <text x="66" y="438" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#A6AFC0">Blender</text>
+<rect x="325" y="421" width="265" height="26" rx="5" fill="url(#skills-glass)" stroke="#22D3EE" stroke-opacity="0.22"/>
+            <circle cx="338" cy="434" r="2.4" fill="#22D3EE"/>
+            <text x="351" y="438" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#A6AFC0">Photoshop</text>
+<rect x="610" y="421" width="265" height="26" rx="5" fill="url(#skills-glass)" stroke="#22D3EE" stroke-opacity="0.22"/>
+            <circle cx="623" cy="434" r="2.4" fill="#22D3EE"/>
+            <text x="636" y="438" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#A6AFC0">Inkscape</text>
+<rect x="895" y="421" width="265" height="26" rx="5" fill="url(#skills-glass)" stroke="#22D3EE" stroke-opacity="0.22"/>
+            <circle cx="908" cy="434" r="2.4" fill="#22D3EE"/>
+            <text x="921" y="438" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#A6AFC0">Photography</text>
+<rect x="40" y="455" width="265" height="26" rx="5" fill="url(#skills-glass)" stroke="#22D3EE" stroke-opacity="0.22"/>
+            <circle cx="53" cy="468" r="2.4" fill="#22D3EE"/>
+            <text x="66" y="472" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#A6AFC0">VFX / Motion</text>
+</svg>

@@ -1,0 +1,184 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 560" width="1200" height="560" preserveAspectRatio="xMidYMid meet" role="img" aria-label="engineering environment">
+<defs>
+<linearGradient id="about-bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#16294A"/><stop offset="50%" stop-color="#101E36"/><stop offset="100%" stop-color="#0A1220"/>
+</linearGradient>
+<radialGradient id="about-halo" cx="50%" cy="45%" r="68%">
+  <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.40"/>
+  <stop offset="45%" stop-color="#3B82F6" stop-opacity="0.16"/>
+  <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="about-cy" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#3B82F6"/><stop offset="55%" stop-color="#22D3EE"/><stop offset="100%" stop-color="#7DD3FC"/>
+</linearGradient>
+<linearGradient id="about-steel" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#1B2636"/><stop offset="45%" stop-color="#46586F"/>
+  <stop offset="60%" stop-color="#8A9AAE"/><stop offset="100%" stop-color="#22303F"/>
+</linearGradient>
+<linearGradient id="about-glass" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.10"/>
+  <stop offset="100%" stop-color="#3B82F6" stop-opacity="0.02"/>
+</linearGradient>
+<linearGradient id="about-scan" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+  <stop offset="45%" stop-color="#22D3EE" stop-opacity="0.30"/>
+  <stop offset="55%" stop-color="#E0FBFF" stop-opacity="0.38"/>
+  <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+</linearGradient>
+<filter id="about-glow" x="-70%" y="-70%" width="240%" height="240%">
+  <feGaussianBlur stdDeviation="3.2" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="about-glowS" x="-90%" y="-90%" width="280%" height="280%">
+  <feGaussianBlur stdDeviation="1.6" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="about-soft" x="-40%" y="-40%" width="180%" height="180%">
+  <feGaussianBlur stdDeviation="9"/>
+</filter>
+</defs>
+<rect width="1200" height="560" fill="#0C1B30"/>
+<g opacity="0.28">
+<line x1="0" y1="-40.0" x2="1200" y2="-40.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="6.0" x2="1200" y2="6.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="52.0" x2="1200" y2="52.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="98.0" x2="1200" y2="98.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="144.0" x2="1200" y2="144.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="190.0" x2="1200" y2="190.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="236.0" x2="1200" y2="236.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="282.0" x2="1200" y2="282.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="328.0" x2="1200" y2="328.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="374.0" x2="1200" y2="374.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="420.0" x2="1200" y2="420.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="466.0" x2="1200" y2="466.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="512.0" x2="1200" y2="512.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="558.0" x2="1200" y2="558.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="0" x2="0" y2="560" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="60" y1="0" x2="60" y2="560" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="120" y1="0" x2="120" y2="560" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="180" y1="0" x2="180" y2="560" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="240" y1="0" x2="240" y2="560" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="300" y1="0" x2="300" y2="560" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="360" y1="0" x2="360" y2="560" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="420" y1="0" x2="420" y2="560" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="480" y1="0" x2="480" y2="560" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="540" y1="0" x2="540" y2="560" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="600" y1="0" x2="600" y2="560" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="660" y1="0" x2="660" y2="560" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="720" y1="0" x2="720" y2="560" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="780" y1="0" x2="780" y2="560" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="840" y1="0" x2="840" y2="560" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="900" y1="0" x2="900" y2="560" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="960" y1="0" x2="960" y2="560" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="1020" y1="0" x2="1020" y2="560" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="1080" y1="0" x2="1080" y2="560" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="1140" y1="0" x2="1140" y2="560" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+</g>
+<g opacity="0.45">
+<path id="about-l0" d="M487.0 533.2 L629.6 531.3" stroke="#22D3EE" stroke-opacity="0.23" stroke-width="0.9" fill="none"/>
+<path id="about-l1" d="M728.9 530.5 L629.6 531.3" stroke="#22D3EE" stroke-opacity="0.16" stroke-width="0.9" fill="none"/>
+<path id="about-l2" d="M1172.6 237.7 L1149.4 30.0" stroke="#22D3EE" stroke-opacity="0.23" stroke-width="0.9" fill="none"/>
+<path id="about-l3" d="M1149.4 30.0 L992.7 26.4" stroke="#22D3EE" stroke-opacity="0.14" stroke-width="0.9" fill="none"/>
+<circle r="1.9" fill="#CFFAFE" filter="url(#about-glowS)">
+          <animateMotion dur="5.3s" begin="2.1s" repeatCount="indefinite" rotate="auto">
+            <mpath xlink:href="#about-l3"/></animateMotion>
+          <animate attributeName="opacity" values="0;1;1;0" dur="5.3s" begin="2.1s" repeatCount="indefinite"/>
+        </circle>
+<g transform="translate(487.0 533.2)">
+          <circle r="4.2" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="3.5;7.0;3.5" dur="3.1s" begin="2.0s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="3.1s" begin="2.0s" repeatCount="indefinite"/></circle>
+          <circle r="1.6" fill="#22D3EE" filter="url(#about-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="3.1s" begin="2.0s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(691.9 28.6)">
+          <circle r="8.8" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="7.5;15.0;7.5" dur="5.0s" begin="0.9s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="5.0s" begin="0.9s" repeatCount="indefinite"/></circle>
+          <circle r="3.4" fill="#E0FBFF" filter="url(#about-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="5.0s" begin="0.9s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(728.9 530.5)">
+          <circle r="4.2" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="3.5;7.0;3.5" dur="4.2s" begin="1.2s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="4.2s" begin="1.2s" repeatCount="indefinite"/></circle>
+          <circle r="1.6" fill="#22D3EE" filter="url(#about-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="4.2s" begin="1.2s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(1172.6 237.7)">
+          <circle r="4.2" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="3.5;7.0;3.5" dur="3.5s" begin="5.0s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="3.5s" begin="5.0s" repeatCount="indefinite"/></circle>
+          <circle r="1.6" fill="#22D3EE" filter="url(#about-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="3.5s" begin="5.0s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(629.6 531.3)">
+          <circle r="4.2" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="3.5;7.0;3.5" dur="6.4s" begin="3.7s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="6.4s" begin="3.7s" repeatCount="indefinite"/></circle>
+          <circle r="1.6" fill="#22D3EE" filter="url(#about-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="6.4s" begin="3.7s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(245.3 29.6)">
+          <circle r="4.2" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="3.5;7.0;3.5" dur="4.1s" begin="4.8s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="4.1s" begin="4.8s" repeatCount="indefinite"/></circle>
+          <circle r="1.6" fill="#22D3EE" filter="url(#about-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="4.1s" begin="4.8s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(140.2 530.4)">
+          <circle r="8.8" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="7.5;15.0;7.5" dur="3.7s" begin="1.9s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="3.7s" begin="1.9s" repeatCount="indefinite"/></circle>
+          <circle r="3.4" fill="#E0FBFF" filter="url(#about-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="3.7s" begin="1.9s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(1149.4 30.0)">
+          <circle r="4.2" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="3.5;7.0;3.5" dur="3.1s" begin="4.9s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="3.1s" begin="4.9s" repeatCount="indefinite"/></circle>
+          <circle r="1.6" fill="#22D3EE" filter="url(#about-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="3.1s" begin="4.9s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(992.7 26.4)">
+          <circle r="8.8" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="7.5;15.0;7.5" dur="3.5s" begin="4.4s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="3.5s" begin="4.4s" repeatCount="indefinite"/></circle>
+          <circle r="3.4" fill="#E0FBFF" filter="url(#about-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="3.5s" begin="4.4s" repeatCount="indefinite"/></circle>
+        </g>
+</g>
+<rect width="1200" height="560" fill="#000" opacity="0.16"/>
+<rect x="40" y="40" width="70" height="70" rx="10" fill="url(#about-glass)" stroke="#22D3EE" stroke-opacity="0.5"/>
+    <text x="75" y="86" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="26" fill="#22D3EE" filter="url(#about-glowS)">01</text>
+    <text x="126" y="70" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="24" font-weight="600" fill="#FFFFFF" letter-spacing="3">ABOUT</text>
+    <text x="128" y="92" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10" fill="#707A8A" letter-spacing="2.4">who I am</text>
+    <line x1="40" y1="128" x2="1160" y2="128" stroke="#22D3EE" stroke-opacity="0.18"/>
+<text x="40" y="176" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">Engineering precision, driven by curiosity.</text>
+    <line x1="40" y1="190" x2="290" y2="190" stroke="#22D3EE" stroke-opacity="0.55" stroke-width="1.4"/>
+<text x="40" y="226" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15.5" fill="#A6AFC0">Aspiring Mechanical Engineer driven by innovation, precision, and continuous</text>
+<text x="40" y="253" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15.5" fill="#A6AFC0">improvement — applying technical knowledge and problem-solving ability in a</text>
+<text x="40" y="280" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15.5" fill="#A6AFC0">dynamic engineering environment.</text>
+<text x="40" y="334" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15.5" fill="#A6AFC0">Beyond core mechanical design, I bring a creative-technical edge — 3D modeling</text>
+<text x="40" y="361" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15.5" fill="#A6AFC0">and photorealistic rendering in Blender, hands-on hardware builds, and a growing</text>
+<text x="40" y="388" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15.5" fill="#A6AFC0">interest in AI, AR/VR and visual effects.</text>
+<line x1="40" y1="423" x2="1160" y2="423" stroke="#22D3EE" stroke-opacity="0.16"/>
+<circle cx="44" cy="434" r="2.6" fill="#22D3EE"/>
+        <text x="56" y="439" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#22D3EE" letter-spacing="1.8">LOCATION</text>
+        <text x="260" y="439" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#FFFFFF">Karur, Tamil Nadu</text>
+<circle cx="604" cy="434" r="2.6" fill="#22D3EE"/>
+        <text x="616" y="439" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#22D3EE" letter-spacing="1.8">DEGREE</text>
+        <text x="820" y="439" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#FFFFFF">B.E. Mechanical Engineering</text>
+<circle cx="44" cy="472" r="2.6" fill="#22D3EE"/>
+        <text x="56" y="477" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#22D3EE" letter-spacing="1.8">EMAIL</text>
+        <text x="260" y="477" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#FFFFFF">karthickrooban@gmail.com</text>
+<circle cx="604" cy="472" r="2.6" fill="#22D3EE"/>
+        <text x="616" y="477" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#22D3EE" letter-spacing="1.8">GRADUATION</text>
+        <text x="820" y="477" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#FFFFFF">2027</text>
+<circle cx="44" cy="510" r="2.6" fill="#22D3EE"/>
+        <text x="56" y="515" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#22D3EE" letter-spacing="1.8">PHONE</text>
+        <text x="260" y="515" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#FFFFFF">+91 74183 10085</text>
+<circle cx="604" cy="510" r="2.6" fill="#22D3EE"/>
+        <text x="616" y="515" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#22D3EE" letter-spacing="1.8">STATUS</text>
+        <text x="820" y="515" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13.5" fill="#FFFFFF">Open to Internships</text>
+</svg>

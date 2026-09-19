@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 210" width="1200" height="210" preserveAspectRatio="xMidYMid meet" role="img" aria-label="engineering environment">
+<defs>
+<linearGradient id="contact-bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#16294A"/><stop offset="50%" stop-color="#101E36"/><stop offset="100%" stop-color="#0A1220"/>
+</linearGradient>
+<radialGradient id="contact-halo" cx="50%" cy="45%" r="68%">
+  <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.40"/>
+  <stop offset="45%" stop-color="#3B82F6" stop-opacity="0.16"/>
+  <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="contact-cy" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#3B82F6"/><stop offset="55%" stop-color="#22D3EE"/><stop offset="100%" stop-color="#7DD3FC"/>
+</linearGradient>
+<linearGradient id="contact-steel" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#1B2636"/><stop offset="45%" stop-color="#46586F"/>
+  <stop offset="60%" stop-color="#8A9AAE"/><stop offset="100%" stop-color="#22303F"/>
+</linearGradient>
+<linearGradient id="contact-glass" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.10"/>
+  <stop offset="100%" stop-color="#3B82F6" stop-opacity="0.02"/>
+</linearGradient>
+<linearGradient id="contact-scan" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+  <stop offset="45%" stop-color="#22D3EE" stop-opacity="0.30"/>
+  <stop offset="55%" stop-color="#E0FBFF" stop-opacity="0.38"/>
+  <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+</linearGradient>
+<filter id="contact-glow" x="-70%" y="-70%" width="240%" height="240%">
+  <feGaussianBlur stdDeviation="3.2" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="contact-glowS" x="-90%" y="-90%" width="280%" height="280%">
+  <feGaussianBlur stdDeviation="1.6" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="contact-soft" x="-40%" y="-40%" width="180%" height="180%">
+  <feGaussianBlur stdDeviation="9"/>
+</filter>
+</defs>
+<rect width="1200" height="210" fill="#0C1B30"/>
+<g opacity="0.28">
+<line x1="0" y1="-26.0" x2="1200" y2="-26.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="20.0" x2="1200" y2="20.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="66.0" x2="1200" y2="66.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="112.0" x2="1200" y2="112.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="158.0" x2="1200" y2="158.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="204.0" x2="1200" y2="204.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="0" x2="0" y2="210" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="60" y1="0" x2="60" y2="210" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="120" y1="0" x2="120" y2="210" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="180" y1="0" x2="180" y2="210" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="240" y1="0" x2="240" y2="210" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="300" y1="0" x2="300" y2="210" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="360" y1="0" x2="360" y2="210" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="420" y1="0" x2="420" y2="210" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="480" y1="0" x2="480" y2="210" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="540" y1="0" x2="540" y2="210" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="600" y1="0" x2="600" y2="210" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="660" y1="0" x2="660" y2="210" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="720" y1="0" x2="720" y2="210" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="780" y1="0" x2="780" y2="210" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="840" y1="0" x2="840" y2="210" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="900" y1="0" x2="900" y2="210" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="960" y1="0" x2="960" y2="210" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="1020" y1="0" x2="1020" y2="210" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="1080" y1="0" x2="1080" y2="210" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="1140" y1="0" x2="1140" y2="210" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+</g>
+<g opacity="0.45">
+<path id="contact-l0" d="M995.9 71.6 L926.2 132.5" stroke="#22D3EE" stroke-opacity="0.17" stroke-width="0.9" fill="none"/>
+<path id="contact-l1" d="M995.9 71.6 L1000.0 167.5" stroke="#22D3EE" stroke-opacity="0.12" stroke-width="0.9" fill="none"/>
+<path id="contact-l2" d="M995.9 71.6 L1090.5 88.1" stroke="#22D3EE" stroke-opacity="0.21" stroke-width="0.9" fill="none"/>
+<path id="contact-l3" d="M1090.5 88.1 L1144.0 42.4" stroke="#22D3EE" stroke-opacity="0.15" stroke-width="0.9" fill="none"/>
+<path id="contact-l4" d="M1090.5 88.1 L1105.2 169.9" stroke="#22D3EE" stroke-opacity="0.24" stroke-width="0.9" fill="none"/>
+<path id="contact-l5" d="M1144.0 42.4 L1166.7 156.7" stroke="#22D3EE" stroke-opacity="0.20" stroke-width="0.9" fill="none"/>
+<path id="contact-l6" d="M926.2 132.5 L1000.0 167.5" stroke="#22D3EE" stroke-opacity="0.19" stroke-width="0.9" fill="none"/>
+<path id="contact-l7" d="M1105.2 169.9 L1166.7 156.7" stroke="#22D3EE" stroke-opacity="0.12" stroke-width="0.9" fill="none"/>
+<path id="contact-l8" d="M1166.7 156.7 L1090.5 88.1" stroke="#22D3EE" stroke-opacity="0.18" stroke-width="0.9" fill="none"/>
+<circle r="1.9" fill="#CFFAFE" filter="url(#contact-glowS)">
+          <animateMotion dur="5.5s" begin="2.6s" repeatCount="indefinite" rotate="auto">
+            <mpath xlink:href="#contact-l3"/></animateMotion>
+          <animate attributeName="opacity" values="0;1;1;0" dur="5.5s" begin="2.6s" repeatCount="indefinite"/>
+        </circle>
+<circle r="1.9" fill="#CFFAFE" filter="url(#contact-glowS)">
+          <animateMotion dur="6.2s" begin="3.1s" repeatCount="indefinite" rotate="auto">
+            <mpath xlink:href="#contact-l6"/></animateMotion>
+          <animate attributeName="opacity" values="0;1;1;0" dur="6.2s" begin="3.1s" repeatCount="indefinite"/>
+        </circle>
+<circle r="1.9" fill="#CFFAFE" filter="url(#contact-glowS)">
+          <animateMotion dur="8.7s" begin="2.7s" repeatCount="indefinite" rotate="auto">
+            <mpath xlink:href="#contact-l8"/></animateMotion>
+          <animate attributeName="opacity" values="0;1;1;0" dur="8.7s" begin="2.7s" repeatCount="indefinite"/>
+        </circle>
+<g transform="translate(995.9 71.6)">
+          <circle r="10.9" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="9.2;18.5;9.2" dur="4.2s" begin="2.5s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="4.2s" begin="2.5s" repeatCount="indefinite"/></circle>
+          <circle r="4.2" fill="#E0FBFF" filter="url(#contact-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="4.2s" begin="2.5s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(1090.5 88.1)">
+          <circle r="4.2" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="3.5;7.0;3.5" dur="4.9s" begin="2.8s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="4.9s" begin="2.8s" repeatCount="indefinite"/></circle>
+          <circle r="1.6" fill="#22D3EE" filter="url(#contact-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="4.9s" begin="2.8s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(1144.0 42.4)">
+          <circle r="8.8" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="7.5;15.0;7.5" dur="3.9s" begin="3.7s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="3.9s" begin="3.7s" repeatCount="indefinite"/></circle>
+          <circle r="3.4" fill="#E0FBFF" filter="url(#contact-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="3.9s" begin="3.7s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(926.2 132.5)">
+          <circle r="10.9" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="9.2;18.5;9.2" dur="3.8s" begin="1.1s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="3.8s" begin="1.1s" repeatCount="indefinite"/></circle>
+          <circle r="4.2" fill="#E0FBFF" filter="url(#contact-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="3.8s" begin="1.1s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(1000.0 167.5)">
+          <circle r="6.8" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="5.7;11.4;5.7" dur="3.7s" begin="1.2s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="3.7s" begin="1.2s" repeatCount="indefinite"/></circle>
+          <circle r="2.6" fill="#22D3EE" filter="url(#contact-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="3.7s" begin="1.2s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(359.2 27.5)">
+          <circle r="4.2" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="3.5;7.0;3.5" dur="3.7s" begin="3.2s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="3.7s" begin="3.2s" repeatCount="indefinite"/></circle>
+          <circle r="1.6" fill="#22D3EE" filter="url(#contact-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="3.7s" begin="3.2s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(1105.2 169.9)">
+          <circle r="8.8" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="7.5;15.0;7.5" dur="6.5s" begin="0.2s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="6.5s" begin="0.2s" repeatCount="indefinite"/></circle>
+          <circle r="3.4" fill="#E0FBFF" filter="url(#contact-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="6.5s" begin="0.2s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(1166.7 156.7)">
+          <circle r="6.8" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="5.7;11.4;5.7" dur="3.4s" begin="4.1s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="3.4s" begin="4.1s" repeatCount="indefinite"/></circle>
+          <circle r="2.6" fill="#22D3EE" filter="url(#contact-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="3.4s" begin="4.1s" repeatCount="indefinite"/></circle>
+        </g>
+</g>
+<rect width="1200" height="210" fill="#000" opacity="0.16"/>
+<g transform="translate(1120 150)" opacity="0.3">
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="0 0 0;360 0 0" dur="36s" repeatCount="indefinite"/>
+    <path d="M27.20 0.00 L26.54 5.93 L32.75 9.14 L30.29 15.44 L23.56 13.60 L20.02 18.41 L23.79 24.29 L18.52 28.51 L13.60 23.56 L8.13 25.96 L8.46 32.93 L1.78 33.95 L0.00 27.20 L-5.93 26.54 L-9.14 32.75 L-15.44 30.29 L-13.60 23.56 L-18.41 20.02 L-24.29 23.79 L-28.51 18.52 L-23.56 13.60 L-25.96 8.13 L-32.93 8.46 L-33.95 1.78 L-27.20 0.00 L-26.54 -5.93 L-32.75 -9.14 L-30.29 -15.44 L-23.56 -13.60 L-20.02 -18.41 L-23.79 -24.29 L-18.52 -28.51 L-13.60 -23.56 L-8.13 -25.96 L-8.46 -32.93 L-1.78 -33.95 L-0.00 -27.20 L5.93 -26.54 L9.14 -32.75 L15.44 -30.29 L13.60 -23.56 L18.41 -20.02 L24.29 -23.79 L28.51 -18.52 L23.56 -13.60 L25.96 -8.13 L32.93 -8.46 L33.95 -1.78 Z" fill="#3B82F6" fill-opacity="0.05" stroke="#22D3EE" stroke-width="1.1" stroke-linejoin="round" filter="url(#contact-glowS)"/>
+    <circle r="14.3" fill="none" stroke="#22D3EE" stroke-width="0.9" stroke-opacity="0.75"/>
+    <circle r="5.4" fill="none" stroke="#A6AFC0" stroke-width="1" stroke-opacity="0.45"/>
+    <g stroke="#22D3EE" stroke-opacity="0.35" stroke-width="1">
+      <line x1="5.4" y1="0" x2="14.3" y2="0"/>
+      <line x1="-5.4" y1="0" x2="-14.3" y2="0"/>
+      <line x1="0" y1="5.4" x2="0" y2="14.3"/>
+      <line x1="0" y1="-5.4" x2="0" y2="-14.3"/>
+    </g>
+  </g>
+</g>
+<rect x="40" y="34" width="70" height="70" rx="10" fill="url(#contact-glass)" stroke="#22D3EE" stroke-opacity="0.5"/>
+    <text x="75" y="80" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="26" fill="#22D3EE" filter="url(#contact-glowS)">07</text>
+    <text x="126" y="64" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="24" font-weight="600" fill="#FFFFFF" letter-spacing="3">CONTACT</text>
+    <text x="128" y="86" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10" fill="#707A8A" letter-spacing="2.4">let&#8217;s build something precise</text>
+    <line x1="40" y1="120" x2="1160" y2="120" stroke="#22D3EE" stroke-opacity="0.18"/>
+<text x="40" y="168" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#A6AFC0">karthickrooban@gmail.com &#183; +91 74183 10085 &#183; Karur, Tamil Nadu</text>
+</svg>

@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 388" width="1200" height="388" preserveAspectRatio="xMidYMid meet" role="img" aria-label="engineering environment">
+<defs>
+<linearGradient id="cert-bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#16294A"/><stop offset="50%" stop-color="#101E36"/><stop offset="100%" stop-color="#0A1220"/>
+</linearGradient>
+<radialGradient id="cert-halo" cx="50%" cy="45%" r="68%">
+  <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.40"/>
+  <stop offset="45%" stop-color="#3B82F6" stop-opacity="0.16"/>
+  <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="cert-cy" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#3B82F6"/><stop offset="55%" stop-color="#22D3EE"/><stop offset="100%" stop-color="#7DD3FC"/>
+</linearGradient>
+<linearGradient id="cert-steel" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#1B2636"/><stop offset="45%" stop-color="#46586F"/>
+  <stop offset="60%" stop-color="#8A9AAE"/><stop offset="100%" stop-color="#22303F"/>
+</linearGradient>
+<linearGradient id="cert-glass" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.10"/>
+  <stop offset="100%" stop-color="#3B82F6" stop-opacity="0.02"/>
+</linearGradient>
+<linearGradient id="cert-scan" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+  <stop offset="45%" stop-color="#22D3EE" stop-opacity="0.30"/>
+  <stop offset="55%" stop-color="#E0FBFF" stop-opacity="0.38"/>
+  <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+</linearGradient>
+<filter id="cert-glow" x="-70%" y="-70%" width="240%" height="240%">
+  <feGaussianBlur stdDeviation="3.2" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="cert-glowS" x="-90%" y="-90%" width="280%" height="280%">
+  <feGaussianBlur stdDeviation="1.6" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="cert-soft" x="-40%" y="-40%" width="180%" height="180%">
+  <feGaussianBlur stdDeviation="9"/>
+</filter>
+</defs>
+<rect width="1200" height="388" fill="#0C1B30"/>
+<g opacity="0.28">
+<line x1="0" y1="-2.0" x2="1200" y2="-2.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="44.0" x2="1200" y2="44.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="90.0" x2="1200" y2="90.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="136.0" x2="1200" y2="136.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="182.0" x2="1200" y2="182.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="228.0" x2="1200" y2="228.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="274.0" x2="1200" y2="274.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="320.0" x2="1200" y2="320.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="366.0" x2="1200" y2="366.0" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="0.6"/>
+<line x1="0" y1="0" x2="0" y2="388" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="60" y1="0" x2="60" y2="388" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="120" y1="0" x2="120" y2="388" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="180" y1="0" x2="180" y2="388" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="240" y1="0" x2="240" y2="388" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="300" y1="0" x2="300" y2="388" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="360" y1="0" x2="360" y2="388" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="420" y1="0" x2="420" y2="388" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="480" y1="0" x2="480" y2="388" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="540" y1="0" x2="540" y2="388" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="600" y1="0" x2="600" y2="388" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="660" y1="0" x2="660" y2="388" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="720" y1="0" x2="720" y2="388" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="780" y1="0" x2="780" y2="388" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="840" y1="0" x2="840" y2="388" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="900" y1="0" x2="900" y2="388" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="960" y1="0" x2="960" y2="388" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="1020" y1="0" x2="1020" y2="388" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="1080" y1="0" x2="1080" y2="388" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+<line x1="1140" y1="0" x2="1140" y2="388" stroke="#3B82F6" stroke-opacity="0.055" stroke-width="0.6"/>
+</g>
+<g opacity="0.45">
+<path id="cert-l0" d="M181.6 359.2 L28.4 317.8" stroke="#22D3EE" stroke-opacity="0.17" stroke-width="0.9" fill="none"/>
+<path id="cert-l1" d="M768.3 323.4 L943.8 337.4" stroke="#22D3EE" stroke-opacity="0.21" stroke-width="0.9" fill="none"/>
+<path id="cert-l2" d="M467.6 352.5 L398.5 352.5" stroke="#22D3EE" stroke-opacity="0.13" stroke-width="0.9" fill="none"/>
+<circle r="1.9" fill="#CFFAFE" filter="url(#cert-glowS)">
+          <animateMotion dur="7.4s" begin="1.2s" repeatCount="indefinite" rotate="auto">
+            <mpath xlink:href="#cert-l2"/></animateMotion>
+          <animate attributeName="opacity" values="0;1;1;0" dur="7.4s" begin="1.2s" repeatCount="indefinite"/>
+        </circle>
+<g transform="translate(181.6 359.2)">
+          <circle r="4.2" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="3.5;7.0;3.5" dur="5.7s" begin="0.8s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="5.7s" begin="0.8s" repeatCount="indefinite"/></circle>
+          <circle r="1.6" fill="#22D3EE" filter="url(#cert-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="5.7s" begin="0.8s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(768.3 323.4)">
+          <circle r="4.2" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="3.5;7.0;3.5" dur="4.1s" begin="3.7s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="4.1s" begin="3.7s" repeatCount="indefinite"/></circle>
+          <circle r="1.6" fill="#22D3EE" filter="url(#cert-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="4.1s" begin="3.7s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(943.8 337.4)">
+          <circle r="6.8" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="5.7;11.4;5.7" dur="5.4s" begin="2.6s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="5.4s" begin="2.6s" repeatCount="indefinite"/></circle>
+          <circle r="2.6" fill="#22D3EE" filter="url(#cert-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="5.4s" begin="2.6s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(467.6 352.5)">
+          <circle r="10.9" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="9.2;18.5;9.2" dur="3.4s" begin="0.9s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="3.4s" begin="0.9s" repeatCount="indefinite"/></circle>
+          <circle r="4.2" fill="#E0FBFF" filter="url(#cert-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="3.4s" begin="0.9s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(1165.5 326.3)">
+          <circle r="6.8" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="5.7;11.4;5.7" dur="6.2s" begin="1.7s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="6.2s" begin="1.7s" repeatCount="indefinite"/></circle>
+          <circle r="2.6" fill="#22D3EE" filter="url(#cert-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="6.2s" begin="1.7s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(28.4 317.8)">
+          <circle r="5.5" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="4.6;9.2;4.6" dur="4.9s" begin="3.5s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="4.9s" begin="3.5s" repeatCount="indefinite"/></circle>
+          <circle r="2.1" fill="#22D3EE" filter="url(#cert-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="4.9s" begin="3.5s" repeatCount="indefinite"/></circle>
+        </g>
+<g transform="translate(398.5 352.5)">
+          <circle r="10.9" fill="#22D3EE" opacity="0.10">
+            <animate attributeName="r" values="9.2;18.5;9.2" dur="3.9s" begin="1.5s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.14;0.02;0.14" dur="3.9s" begin="1.5s" repeatCount="indefinite"/></circle>
+          <circle r="4.2" fill="#E0FBFF" filter="url(#cert-glowS)">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="3.9s" begin="1.5s" repeatCount="indefinite"/></circle>
+        </g>
+</g>
+<rect width="1200" height="388" fill="#000" opacity="0.16"/>
+<rect x="40" y="34" width="70" height="70" rx="10" fill="url(#cert-glass)" stroke="#22D3EE" stroke-opacity="0.5"/>
+    <text x="75" y="80" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="26" fill="#22D3EE" filter="url(#cert-glowS)">04</text>
+    <text x="126" y="64" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="24" font-weight="600" fill="#FFFFFF" letter-spacing="3">CERTIFICATIONS</text>
+    <text x="128" y="86" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10" fill="#707A8A" letter-spacing="2.4">courses &amp; credentials</text>
+    <line x1="40" y1="120" x2="1160" y2="120" stroke="#22D3EE" stroke-opacity="0.18"/>
+<rect x="40" y="136" width="1120" height="40" rx="7" fill="url(#cert-glass)" stroke="#22D3EE" stroke-opacity="0.2"/>
+        <circle cx="58" cy="156" r="3" fill="#22D3EE"/>
+        <text x="74" y="160" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#FFFFFF">Data Structures &amp; Algorithms using C++</text>
+        <text x="1140" y="160" text-anchor="end" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#707A8A">Oxford University (OxfordX)</text>
+<rect x="40" y="188" width="1120" height="40" rx="7" fill="url(#cert-glass)" stroke="#22D3EE" stroke-opacity="0.2"/>
+        <circle cx="58" cy="208" r="3" fill="#22D3EE"/>
+        <text x="74" y="212" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#FFFFFF">Introduction to Web Development — HTML5 &amp; CSS3</text>
+        <text x="1140" y="212" text-anchor="end" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#707A8A">IBM</text>
+<rect x="40" y="240" width="1120" height="40" rx="7" fill="url(#cert-glass)" stroke="#22D3EE" stroke-opacity="0.2"/>
+        <circle cx="58" cy="260" r="3" fill="#22D3EE"/>
+        <text x="74" y="264" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#FFFFFF">National-Level Hackathon</text>
+        <text x="1140" y="264" text-anchor="end" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#707A8A">PSG College of Technology</text>
+<rect x="40" y="292" width="1120" height="40" rx="7" fill="url(#cert-glass)" stroke="#22D3EE" stroke-opacity="0.2"/>
+        <circle cx="58" cy="312" r="3" fill="#22D3EE"/>
+        <text x="74" y="316" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#FFFFFF">Coding Contest</text>
+        <text x="1140" y="316" text-anchor="end" font-family="'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace" font-size="10.5" fill="#707A8A">KPR College of Engineering</text>
+</svg>
